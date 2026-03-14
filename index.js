@@ -304,28 +304,7 @@
 
 
 
-/// Day 20: Count Vowels in a String 
 
-
-// ////////////////////////////        Answer       ///////////////////////////
-
-// let str = prompt("Enter a string").toLowerCase();
-// let count = 0;
-// let isVowelFound = [];
-
-// for (let i = 0; i < str.length; i++) {
-//    if (str[i] === 'a' || str[i] === 'e' || str[i] === 'i' 
-//     || str[i] === 'o' || str[i] === 'u') {
-//         isVowelFound.push(str[i]) ;
-//     count++;
-    
-//    }
-    
-// }
-// document.writeln("User Input :"+str );
-// document.writeln("<br> Vowels: " + isVowelFound.join(","));
-
-// document.writeln("<br> Total Vowels: " + count);
 
 
 
